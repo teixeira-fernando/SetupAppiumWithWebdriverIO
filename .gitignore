@@ -1,0 +1,7 @@
+node_modules
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/TAU_WebDriverIOAndAppium.iml
+/.idea/vcs.xml
+/package-lock.json
